@@ -40,6 +40,9 @@ Halaman About adalah halaman yang menampilkan deskripsi tentang saya
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/5253c069-bb43-4698-abf1-9b22d7cc2248" />
 
+
+
+
 **User Interface Halaman Admin**
 
 A. Halaman Login
@@ -70,10 +73,18 @@ Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Ta
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/bea868d8-ee40-41a5-a2f9-81d962dd3b47" />
 
+
+
 **Dan ini versi mobile modenya**
+
 <img width="372" alt="image" src="https://github.com/user-attachments/assets/3804d99f-79fa-4984-8352-4a3da6545a2d" />
+
 <img width="371" alt="image" src="https://github.com/user-attachments/assets/e7b2d809-e4ea-41ce-8e49-d65e575ce559" />
+
 <img width="361" alt="image" src="https://github.com/user-attachments/assets/ba63b1a2-bcf3-4e8a-95d7-b7ec1759cbdb" />
+
+
+
 
 **PENAMBAHAN FITUR BARU**
 1. Ganti temanya menjadi Glasmorphism dan backgroundnya gif
